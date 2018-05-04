@@ -8,8 +8,8 @@ TestinTesting New Feature: JobSystem in 2018.1
 * Update all GameObject position every frame with sine function.
 
 ### Testing Result
-![ripple](https://raw.githubusercontent.com/douduck08/UnityVFX-InteractiveSurface/master/img/display.jpg)
-![ripple](https://raw.githubusercontent.com/douduck08/UnityVFX-InteractiveSurface/master/img/wave.jpg)
+![normal-update](https://raw.githubusercontent.com/douduck08/UnityTest-JobSystem/master/img/normal-update.jpg)
+![use-job-system](https://raw.githubusercontent.com/douduck08/UnityTest-JobSystem/master/img/use-job-system.jpg)
 
 [Demo in Youtube](https://www.youtube.com/watch?v=Tu-k_ZG1sOs)
 
